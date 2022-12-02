@@ -24,8 +24,6 @@ LNT : <input type = "TEXT" name = "LNT" id = "LNT" size = "20" value="0.0">
     <input type = "hidden" name = "hiddenLNT" id = "hiddenLNT">
 </form>
 
-<%--<iframe id="if" name = "ifSubmit"></iframe>--%>
-
 <style>
 
     form{display:inline}
